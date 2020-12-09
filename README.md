@@ -1,7 +1,7 @@
 # Caribou-Duet
 
 
-<img src="https://github.com/Caribou3d/CaribouDuet/blob/main/img/CaribouDuet-20201209-2-med.png" width="600">
+<img src="https://github.com/Caribou3d/CaribouDuet/blob/main/img/CaribouDuet-20201209-2-med.png" width="800">
 
 ## Introduction
 
