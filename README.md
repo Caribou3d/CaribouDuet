@@ -1,6 +1,6 @@
 # Caribou-Duet
 
-![Caribou-MK3 Rel. 3.0](img/PanelDue.png)
+![Caribou-MK3 Rel. 3.0](img/PanelDue.png | width=100)
 
 
 ## Introduction
