@@ -1,8 +1,7 @@
 # Caribou-Duet
 
-![Caribou-MK3 Rel. 3.0]
 
-<img src="https://github.com/Caribou3d/CaribouDuet/blob/main/img/PanelDue.png" width="300">
+<img src="https://github.com/Caribou3d/CaribouDuet/blob/main/img/CaribouDuet-20201209-2-med.png" width="600">
 
 ## Introduction
 
