@@ -2,7 +2,7 @@
 
 ![Caribou-MK3 Rel. 3.0](img/PanelDue.png | width=100)
 
-<img src="https://github.com/Caribou3d/CaribouDuet/tree/main/img" width="48">
+<img src="https://github.com/Caribou3d/CaribouDuet/tree/main/img/PanelDue.png" width="48">
 
 ## Introduction
 
